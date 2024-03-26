@@ -67,7 +67,7 @@ img {
   width: 100%;
 }
 
-.header {
+.header .container {
   background-color: #fff;
   display: flex;
   list-style: none;
@@ -146,6 +146,7 @@ img {
   padding-top: 188px;
   padding-bottom: 188px;
   max-width: 1440px;
+  margin: 0 auto;
 }
 
 .hero {
@@ -230,10 +231,6 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-}
-
-.features-icon {
-  width: 264px;
 }
 
 .features-icon-container {
